@@ -1,0 +1,16 @@
+Package: vMFM
+Type: Package
+Title: Variable Selection for Von Mises-Fisher Mixtures
+Version: 0.1.0
+Authors@R: c(person("Damon", "Bayer", email = "damonmbayer@gmail.com", 
+       role = c("aut", "cre")),
+       person("Semhar", "Michael", email = "Semhar.Michael@sdstate.edu", 
+       role = "aut"))
+Description: Implementation of Variable Selection Techniques for Clustering on the Unit Hypersphere (publication pending).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/damonbayer/vMFM/
+BugReports: https://github.com/damonbayer/vMFM/issues
+Imports: movMF, skmeans
+RoxygenNote: 6.1.1

@@ -2,9 +2,9 @@ Implementation of Variable Selection Techniques for Clustering on the Unit Hyper
 
 # Installation
 
-You can install vMFM from github with
+You can install FvMLM from github with
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("damonbayer/vMFM")
+devtools::install_github("damonbayer/FvMLM")
 ```
